@@ -1,6 +1,6 @@
 # TUBES-SA-
 Kelompok 15, IF 44-09
-Sebelumnya dijalan melalui Google Collab
+Sebelumnya dijalankan melalui Google Collab
 
 
 Fachrul Febriana					  1301204407
